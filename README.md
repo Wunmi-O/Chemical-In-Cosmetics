@@ -28,6 +28,8 @@ To use this dataset, you can filter by primary category, subcategory, product na
 * Identify the relationship between chemicals that were mostly recently reported and discontinued. (Does most recently reported chemicals equal discontinuation of such chemicals?)
 
 * Identify the relationship between CSF and chemicals used in the most manufactured sub categories. (Tip: Which chemicals gave a certain type of CSF in sub categories?)
+  
+ Find SQL queries **<ins>[here](Chemicals_In_Cosmetics.sql)<ins>**
 
 ## Visualize finding solutions to three(3) of the questions above. 
 Please find link to tableau dashboard **<ins>[here](https://public.tableau.com/views/ChemicalsInCosmetics_16748210486990/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link&:device=desktop)<ins>**
