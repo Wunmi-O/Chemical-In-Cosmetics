@@ -1,4 +1,4 @@
---Prior cleaning was done with Microsoft Excel Power Query Editor before importing into SQL server and Tableau.
+--Prior cleaning was done with Microsoft Excel Power Query Editor before importing into SQL server.
 
 --Find out which chemicals were used the most in cosmetics and personal care products
 SELECT
