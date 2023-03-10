@@ -1,8 +1,10 @@
-## SQL Project: Chemicals in Cosmetics 
-Dataset downloaded from <ins>[here](chemicals-in-cosmetics.csv.zip)<ins>
+# SQL Project: Chemicals in Cosmetics 
+
 
 ## About this dataset
-Do you ever wonder what ingredients are in your favorite cosmetics? Did you know that there are over 12,000 chemicals used in cosmetics and personal care products? This dataset contains information on the chemicals used in cosmetics, including the name of the chemical, the company that manufactures it, the primary category it is used in, and the date it was first reported. So what's really in your makeup bag? Scroll through and take a look at some of the most popular cosmetics ingredients
+Do you ever wonder what ingredients are in your favorite cosmetics? Did you know that there are over 12,000 chemicals used in cosmetics and personal care products? This dataset contains information on the chemicals used in cosmetics, including the name of the chemical, the company that manufactures it, the primary category it is used in, and the date it was first reported. So what's really in your makeup bag? Scroll through and take a look at some of the most popular cosmetics ingredients. 
+
+Download dataset <ins>[here](chemicals-in-cosmetics.csv.zip)<ins>
 
 ## How to use the dataset
 This dataset contains information on chemicals used in cosmetics, including the name of the chemical, the company that uses it, the category of cosmetic it is used in, and the date it was first reported. The data dictionary provides more information on what each column represents.
